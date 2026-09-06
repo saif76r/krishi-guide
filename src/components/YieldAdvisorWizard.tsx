@@ -343,7 +343,7 @@ export const YieldAdvisorWizard: React.FC<Props> = ({ onBackToHome, onSelectCrop
               <div className="flex items-center justify-between mb-1.5">
                 <label className="block text-xs font-semibold text-stone-700">ফসল নির্বাচন করুন</label>
                 <span className="text-[11px] font-bold text-emerald-700 bg-emerald-100/70 px-2 py-0.5 rounded-md">
-                  ১১টি ফসল সমর্থিত
+                  ১১টি ফসল 
                 </span>
               </div>
               <select
