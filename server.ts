@@ -658,7 +658,7 @@ app.post("/api/chat", async (req, res) => {
             contents,
             config: {
               systemInstruction,
-              temperature: 0.6,
+              temperature: 0.1,
               maxOutputTokens: 1024,
             },
           }),

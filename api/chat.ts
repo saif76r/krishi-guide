@@ -227,7 +227,7 @@ export default async function handler(req: any, res: any) {
             contents,
             config: {
               systemInstruction,
-              temperature: 0.6,
+              temperature: 0.1,
               maxOutputTokens: 1024,
             },
           }),
